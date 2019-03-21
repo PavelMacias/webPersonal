@@ -1,0 +1,36 @@
+.mbutton{
+  font-family: Aria;
+  font-size: 1.7vw;
+  color: white;
+  text-decoration: none;
+}
+#navbarra{
+    overflow: hidden;
+    background-color: black;
+     position: fixed;
+     top: 0;
+     left:0;
+     width: 100%;
+     height: 13%;
+
+}
+#navbarra a{
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 2%;
+}
+#navbarra a:hover{
+  height: 100%;
+  background-color: white;
+  color: black;
+}
+.hehe{
+  padding-top: 6%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+p{
+  font-size: 25px;
+}
